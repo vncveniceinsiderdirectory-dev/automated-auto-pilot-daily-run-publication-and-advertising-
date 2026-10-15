@@ -1,2 +1,6 @@
 # Google App Engine generated folder
 appengine-generated/
+
+# Local secrets and caches -- never commit these
+.env
+__pycache__/
